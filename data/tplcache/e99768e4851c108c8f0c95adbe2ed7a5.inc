@@ -1,0 +1,1 @@
+<a href="[field:typelink/]">详细 &gt;</a>

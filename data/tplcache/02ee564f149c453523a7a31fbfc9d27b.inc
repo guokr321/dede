@@ -1,0 +1,1 @@
+<p><span>[field:pubdate function="MyDate('Y-m-d',@me)"/]</span>&nbsp;&nbsp;-&nbsp;&nbsp;<a href="[field:arcurl/]" title="[field:title/]">[field:title/]</a></p>

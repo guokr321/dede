@@ -1,0 +1,44 @@
+<?php
+$z[0]=Array("global","",214,240);
+$z[0][4]['name']="cfg_webname";
+$z[1]=Array("global","",281,308);
+$z[1][4]['name']="cfg_keywords";
+$z[2]=Array("global","",348,378);
+$z[2][4]['name']="cfg_description";
+$z[3]=Array("include","",989,1024);
+$z[3][4]['filename']="head.htm";
+$z[4]=Array("field","",1440,1469);
+$z[4][4]['name']="position";
+$z[5]=Array("field","",1696,1715);
+$z[5][4]['name']="title";
+$z[6]=Array("adminname","",1814,1831);
+$z[7]=Array("field","",1862,1918);
+$z[7][4]['name']="pubdate";
+$z[7][4]['function']="MyDate('Y-m-d H:i',@me)";
+$z[8]=Array("fieldname='phpurl'","",1957,1983);
+$z[9]=Array("field","",1998,2021);
+$z[9][4]['name']="ID";
+$z[10]=Array("fieldname='memberid'","",2026,2054);
+$z[11]=Array("field","",2721,2740);
+$z[11][4]['name']="title";
+$z[12]=Array("field","",2758,2776);
+$z[12][4]['name']="body";
+$z[13]=Array("tag","\r\n             <a href='[field:link/]' target=_blank><b>[field:tag /]</b></a>\r\n          ",2957,3097);
+$z[13][4]['row']="3";
+$z[13][4]['sort']="new";
+$z[13][4]['getall']="1";
+$z[14]=Array("prenext","",3261,3286);
+$z[14][4]['get']="pre";
+$z[15]=Array("prenext","",3341,3367);
+$z[15][4]['get']="next";
+$z[16]=Array("arclist","\r\n				<li>\r\n                <a href=\"[field:arcurl/]\">\r\n                <img width=\"400\" height=\"244\" src=\"[field:picname/]\" class=\"attachment-medium wp-post-image\"/> </a>\r\n                <a rel=\"bookmark\" href=\"[field:arcurl/]\"  title=\"[field:title /]\"  class=\"link\">>[field:title /]</a>\r\n            </li>\r\n",3620,4011);
+$z[16][4]['row']="100";
+$z[16][4]['pagesize']="4";
+$z[16][4]['titlelen']="20";
+$z[16][4]['orderby']="rand";
+$z[17]=Array("include","",4757,4793);
+$z[17][4]['filename']="right.htm";
+$z[18]=Array("include","",4860,4897);
+$z[18][4]['filename']="footer.htm";
+
+?>

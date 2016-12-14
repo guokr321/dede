@@ -1,0 +1,20 @@
+<header id="header-web">
+    <div class="header-main">
+        <hgroup class="logo">
+            <h1><a href="/" title="我的网站" rel="home"><img src="/skin/Picture/logo.png" alt="我的网站"></a></h1>
+            <h3>互联网的运营笔记！</h3>
+        </hgroup>
+        <!--logo-->
+        <nav class="header-nav">
+            <ul id="menu-nav" class="menu">
+            <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home"><a href="/">首页</a></li>
+			{dede:channel     row='4'   type ='top'                   }
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="[field:typename/]" href="[field:typelink/]">[field:typename/]</a></li>
+            {/dede:channel}
+            </ul>
+			    </nav>
+        <!--header-nav-->
+
+        <!--header-main-->
+    </div>
+</header>

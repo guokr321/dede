@@ -1,0 +1,2 @@
+INSERT INTO `dede_search_keywords` VALUES('1','o2o','o2o','94','5','1460186638','0','0');
+INSERT INTO `dede_search_keywords` VALUES('2','sd','sd','1','0','1460170039','0','0');
